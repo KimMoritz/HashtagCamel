@@ -18,6 +18,7 @@ public class HashtagCamelMain {
 
     public static void main(String[] args) {
         HashtagCamelMain hashtagCamelMain = new HashtagCamelMain();
+        System.out.println("Camel started!");
     }
 
 }
